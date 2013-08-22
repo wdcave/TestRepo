@@ -69,7 +69,7 @@ namespace FFDesktop1
 
       int status = rest.GetFolderInfo(folderId, true, REST.GetInfoLevel.Basic, out folderInfo);
       if (200 == status)
-        Report("Successfully retrieved folder info");
+        Report("Successfully retrieved folder info - github rocks!");
       else
         Report("Failed to get folder info");
 
