@@ -1,0 +1,8 @@
+D:\work\FFDesktop1\FFDesktop1\bin\Debug\FFDesktop1.exe
+D:\work\FFDesktop1\FFDesktop1\bin\Debug\FFDesktop1.pdb
+D:\work\FFDesktop1\FFDesktop1\obj\x86\Debug\FFDesktop1.Form1.resources
+D:\work\FFDesktop1\FFDesktop1\obj\x86\Debug\FFDesktop1.Properties.Resources.resources
+D:\work\FFDesktop1\FFDesktop1\obj\x86\Debug\FFDesktop1.exe
+D:\work\FFDesktop1\FFDesktop1\obj\x86\Debug\FFDesktop1.pdb
+D:\work\FFDesktop1\FFDesktop1\obj\x86\Debug\FFDesktop1.csprojResolveAssemblyReference.cache
+D:\work\FFDesktop1\FFDesktop1\obj\x86\Debug\FFDesktop1.csproj.GenerateResource.Cache
